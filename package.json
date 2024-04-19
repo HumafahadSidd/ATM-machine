@@ -1,0 +1,22 @@
+{
+  "name": "humafahd8558-atm-machine",
+  "version": "1.0.3",
+  "main": "main.js",
+  "type": "module",
+  "bin":"main.js",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.4"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "keywords": [],
+  "description": ""
+}
